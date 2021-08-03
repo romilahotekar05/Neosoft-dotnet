@@ -1,4 +1,6 @@
 ## Version Control System
+- What is a “version control system”? 
+  Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done to the code. 
 - We use VCSs to collaborate as a team of programmars, track changes, do code review and much more...
 - This can be of 2 types
 	- Distributed VCS
